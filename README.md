@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Johnny19AS
-- 👀 I’m interested in start coding in Java
+- 👋 Hi, I’m Johnny
+- 👀 I’m interested in start working in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects created on Java
 - 📫 How to reach me ...
